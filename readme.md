@@ -26,8 +26,8 @@ O objetivo deste repositório é armazenar e compartilhar os exercícios prátic
 ## 💡 Como Usar
 ### 1. Clone o repositório
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/yago-25/IA-PYTHON.git
+cd IA-PYTHON
 ```
 
 ### 2. Crie um ambiente virtual (opcional, mas recomendado)
