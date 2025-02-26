@@ -1,0 +1,68 @@
+# 🤖 Repositório de Exercícios - Inteligência Artificial
+
+Bem-vindo ao repositório de exercícios da disciplina de **Inteligência Artificial** do curso de **Sistemas de Informação** na **Instituição Toledo de Ensino**! Aqui você encontrará diversos códigos e projetos desenvolvidos ao longo da disciplina, utilizando **Python** e suas principais bibliotecas para IA.
+
+## ✨ Objetivo
+O objetivo deste repositório é armazenar e compartilhar os exercícios práticos da disciplina, incluindo resoluções de problemas, algoritmos de aprendizado de máquina e técnicas de IA aplicadas.
+
+## 🛠 Tecnologias Utilizadas
+- **Python 3.x**
+- **NumPy** - Para operações matemáticas
+- **Pandas** - Para manipulação de dados
+- **Scikit-learn** - Para aprendizado de máquina
+- **TensorFlow/Keras** - Para redes neurais (se aplicável)
+- **Matplotlib/Seaborn** - Para visualização de dados
+
+## 📜 Estrutura do Repositório
+```
+/
+├── notebooks/            # Jupyter Notebooks com os exercícios
+├── datasets/             # Conjuntos de dados utilizados
+├── scripts/              # Scripts Python com implementações
+├── README.md             # Este arquivo
+└── requirements.txt      # Dependências do projeto
+```
+
+## 💡 Como Usar
+### 1. Clone o repositório
+```bash
+git clone https://github.com/seu-usuario/seu-repositorio.git
+cd seu-repositorio
+```
+
+### 2. Crie um ambiente virtual (opcional, mas recomendado)
+```bash
+python -m venv venv
+source venv/bin/activate  # Linux/Mac
+venv\Scripts\activate     # Windows
+```
+
+### 3. Instale as dependências
+```bash
+pip install -r requirements.txt
+```
+
+### 4. Abra os notebooks
+```bash
+jupyter notebook
+```
+
+## 📚 Conteúdo dos Exercícios
+Os exercícios abrangem os seguintes tópicos:
+- Introdução à Inteligência Artificial
+- Busca e heurísticas
+- Aprendizado de Máquina supervisionado e não supervisionado
+- Redes neurais artificiais
+- Processamento de Linguagem Natural (NLP)
+- Algoritmos genéticos e otimização
+- Projetos práticos aplicados
+
+## 👥 Contribuição
+Se você quiser contribuir com melhorias, basta fazer um **fork** do repositório e abrir um **pull request**! Qualquer sugestão, correção ou novo exercício será bem-vindo. 🚀
+
+## 🌟 Agradecimentos
+Agradecimentos a todos os professores e colegas que contribuem para o aprendizado e aprimoramento na área de Inteligência Artificial! 🚀🌟
+
+---
+🌍 **Instituição Toledo de Ensino** - Sistemas de Informação
+
