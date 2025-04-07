@@ -1,0 +1,7 @@
+A busca gulosa e a busca A* são algoritmos de busca usados para encontrar o caminho mais curto em um grafo ou mapa, mas eles têm abordagens diferentes.
+
+Busca Gulosa: A busca gulosa tenta encontrar o caminho mais curto ao sempre escolher o próximo nó que parece ser o mais promissor, com base em uma heurística. Essa heurística é uma estimativa da distância do nó até o destino. O problema da busca gulosa é que ela pode não encontrar o caminho ótimo, pois ela pode ser atraída por escolhas locais que parecem boas, mas não são as melhores a longo prazo.
+
+Busca A*: A busca A* é uma versão mais inteligente da busca gulosa. Ela usa tanto o custo já percorrido até o nó quanto a heurística (estimativa de distância até o destino). Isso significa que A* leva em conta tanto o que já foi feito quanto o que pode ser feito, balanceando entre o custo real e a estimativa do futuro. Como resultado, a busca A* garante encontrar o caminho mais curto, desde que a heurística seja admissível (não superestime a distância restante).
+
+Em resumo, a busca gulosa é mais simples, mas pode falhar em encontrar o caminho ótimo, enquanto a busca A* é mais eficaz e precisa, pois combina custo real e estimativa do futuro.
